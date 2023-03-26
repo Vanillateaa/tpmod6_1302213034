@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,7 +14,7 @@ namespace tpmod6_1302213034
         private string title;
         private int playcount;
 
-        public sayatubevideo_1402213034(String title)
+        public sayatubevideo_1302213034(String title)
         {
             Debug.Assert(title.Length <= 100 && title != null, "judul video harus memiliki panjang lagu maks 100 karakter dan tidak boleh kosong. ");
             this.title = title;

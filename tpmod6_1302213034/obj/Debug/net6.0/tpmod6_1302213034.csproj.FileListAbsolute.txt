@@ -1,0 +1,15 @@
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\bin\Debug\net6.0\tpmod6_1302213034.exe
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\bin\Debug\net6.0\tpmod6_1302213034.deps.json
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\bin\Debug\net6.0\tpmod6_1302213034.runtimeconfig.json
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\bin\Debug\net6.0\tpmod6_1302213034.dll
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\bin\Debug\net6.0\tpmod6_1302213034.pdb
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.csproj.AssemblyReference.cache
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.AssemblyInfoInputs.cache
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.AssemblyInfo.cs
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.csproj.CoreCompileInputs.cache
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.dll
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\refint\tpmod6_1302213034.dll
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.pdb
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\tpmod6_1302213034.genruntimeconfig.cache
+C:\Users\Rheins\Documents\KPL\Modul6\tpmod6_1302213034\tpmod6_1302213034\obj\Debug\net6.0\ref\tpmod6_1302213034.dll
